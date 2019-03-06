@@ -5,7 +5,7 @@ https://gilbertf.shinyapps.io/pokemon/
 Team name: "Pokemon"
 
 ## **About the Project**
-See the data, Pokemon with Stats, that was we used [here](https://www.kaggle.com/abcsds/pokemon).
+See the data, Pokemon with Stats, that we used [here](https://www.kaggle.com/abcsds/pokemon).
 
 ## **Our contributors**
 * Gilbert Febianto
