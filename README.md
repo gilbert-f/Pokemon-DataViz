@@ -13,7 +13,7 @@ See the data, Pokemon with Stats, that was we used [here](https://www.kaggle.com
 * Eun Won Park
 * Eric Shin
 
-## **Learn about pokemons**
+## **Learn about Pokemons**
 ### Pokemon Match Up
 * Enter pokemon names and compare them to see which is stronger based on stats
 
