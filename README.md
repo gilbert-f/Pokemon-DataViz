@@ -1,4 +1,4 @@
-https://gilbertf.shinyapps.io/pokemon/
+URL: https://gilbertf.shinyapps.io/pokemon/
 
 # Pokemon Final Project
 **Final project for INFO201-a17**
